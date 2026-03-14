@@ -106,9 +106,9 @@ int main(int argc, char *argv[])
 
 
 ## OUTPUT
-![Alt text](<../img_Ex04/Screenshot at 2026-03-14 05-33-01.png>)
+![img_Ex04](image.png)
+![img_Ex04](image-1.png)
 
-![Alt text](<../img_Ex04/Screenshot at 2026-03-14 05-34-38.png>)
 
 # RESULT:
 The programs are executed successfully.
